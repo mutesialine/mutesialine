@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ktesialine@gmail.com**
 
-- 📄 Know about my experiences [https://alinemutesi-resume.netlify.app/](https://alinemutesi-resume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
