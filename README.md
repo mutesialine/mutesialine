@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **Next.js ,React.js,Redux,Context API,Tailwindcss**
 - 📫 How to reach me: **ktesialine@gmail.com**
-- 😄 Pronouns: **She/Her**
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutesialine&show_icons=true&locale=en&layout=compact" alt="mutesialine" /></p>
 
