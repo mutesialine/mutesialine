@@ -8,6 +8,6 @@
 📫 How to reach me: **ktesialine@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutesialine&show_icons=true&locale=en&layout=compact" alt="mutesialine" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutesialine&show_icons=true&locale=en&layout=compact" alt="mutesialine" /></p>
 
 
