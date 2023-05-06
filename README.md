@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Typescript**
 
-💬 Ask me about **Javascript, React, next.js**
+💬 Ask me about **Javascript, React.js, next.js , Tailwind CSS**
 
 📫 How to reach me: **ktesialine@gmail.com**
 
